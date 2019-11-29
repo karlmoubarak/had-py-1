@@ -28,3 +28,14 @@ a {
   -ms-overflow-style: none;
   position: relative;
 }
+
+.tool {
+	margin-left: 10px;
+	padding: 15px;
+	width: auto;
+	max-width: 45rem;
+	background-color: #b7ffaa;
+	border: 1px dashed darkgreen;
+	border-radius: 10px;
+	font-family: 'helvetica';
+}
